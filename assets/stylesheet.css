@@ -1,0 +1,20 @@
+.mini_container {
+    border-radius: 5px;
+    background-color: #ffffff;
+    margin: 1px;
+    text-align: center;
+    position: relative;
+    box-shadow: 2px 2px 2px lightgrey;
+    padding : "1rem";
+  }
+  
+.loginButton{
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    background-color: #ffffff;
+    color: rgb(5, 5, 5); 
+    margin: auto;
+
+}
+  
